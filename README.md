@@ -2,4 +2,4 @@
 
 Este repositório serve de exemplo para o curso Git e Github.
 
-![./tie.png](TIE Fighter)
+![Tie Fighter](./tie.png)
